@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/color-changer/", 
+  base: "/Color_Changer_Card/", 
   plugins: [react(),tailwindcss(),],
 })
